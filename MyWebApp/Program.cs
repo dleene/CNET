@@ -1,5 +1,13 @@
-var builder = WebApplication.CreateBuilder(args);
+﻿
+using Microsoft.EntityFrameworkCore;
+using MyWebApp.Repository;
 
+var builder = WebApplication.CreateBuilder(args);
+//Connectuon db
+builder.Services.AddDbContext<DataContext>(option =>
+{
+    option.UseSqlServer(builder.Configuration["ConnectionStrings:ConnectedDB"]);
+});
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 var app = builder.Build();
@@ -23,4 +31,8 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
+//seeding data
+
+var context = app.Services.CreateScope().ServiceProvider.GetRequiredService<DataContext>();
+SeedData.SeedingData(context);
 app.Run();

@@ -3,9 +3,9 @@ using MyWebApp.Models;
 
 namespace MyWebApp.Repository
 {
-    public class Datacontext : DbContext
+    public class DataContext : DbContext
     {
-        public Datacontext(DbContextOptions<DbContext> options) : base(options)
+        public DataContext(DbContextOptions<DataContext> options) : base(options)
         {
 
         }
