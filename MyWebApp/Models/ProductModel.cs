@@ -14,7 +14,7 @@ namespace MyWebApp.Models
         [Required, MinLength(4, ErrorMessage = "Yêu cầu nhập mô tả sản phẩm")]
 
 
-        public string Decription { get; set; }
+        public string Description { get; set; }
         [Required, MinLength(4, ErrorMessage = "Yêu cầu nhập giá sản phẩm")]
 
         public decimal Price { get; set; }
