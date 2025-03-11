@@ -339,3 +339,4 @@ F:\C-sharp\MyWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Cach
 F:\C-sharp\MyWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 F:\C-sharp\MyWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 F:\C-sharp\MyWebApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\C-sharp\MyWebApp\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css

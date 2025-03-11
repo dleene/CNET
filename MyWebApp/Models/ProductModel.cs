@@ -1,4 +1,6 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using MyWebApp.Repository.Validation;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace MyWebApp.Models
 {
@@ -15,15 +17,20 @@ namespace MyWebApp.Models
 
 
         public string Description { get; set; }
-        [Required, MinLength(4, ErrorMessage = "Yêu cầu nhập giá sản phẩm")]
+        [Required, Range(1, int.MaxValue, ErrorMessage = "Yêu cầu nhập giá sản phẩm")]
 
         public decimal Price { get; set; }
+        [Required, Range(1, int.MaxValue, ErrorMessage = "Chọn một thương hiệu")]
         public int BrandId { get; set; }
+        [Required, Range(1, int.MaxValue, ErrorMessage = "Chọn một thương hiệu")]
         public int CategoryId { get; set; }
 
         public CategoryModel Category { get; set; }
         public BrandModel Brand { get; set; }
 
         public string Image { get; set; }
+        [NotMapped]
+        [FileExtension]
+        public IFormFile? ImageUpload { get; set; }
     }
 }
