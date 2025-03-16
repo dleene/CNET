@@ -2,9 +2,11 @@
 using MyWebApp.Models;
 using MyWebApp.Repository;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Authorization;
 
 namespace MyWebApp.Controllers
 {
+    
     public class CategoryController : Controller
     {
         private readonly DataContext _dataContext;

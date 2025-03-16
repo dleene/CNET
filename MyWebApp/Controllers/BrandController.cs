@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using MyWebApp.Models;
 using MyWebApp.Repository;
@@ -6,6 +7,7 @@ using MyWebApp.Repository;
 namespace MyWebApp.Controllers
 {
     
+
     public class BrandController : Controller   
     {
         private readonly DataContext _dataContext;
