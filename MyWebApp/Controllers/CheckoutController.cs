@@ -1,4 +1,5 @@
 ﻿using System.Security.Claims;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
@@ -8,6 +9,8 @@ using MyWebApp.Repository;
 
 namespace MyWebApp.Controllers
 {
+    [Area("Admin")]
+    [Authorize]
     public class CheckoutController : Controller
     {
         private readonly DataContext _dataContext;
