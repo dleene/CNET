@@ -1,26 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\",
+  "WorkspaceRootPath": "F:\\C-sharp\\MyWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE160F80-C804-4DCB-3E6B-5D99DC7C094B}|MyWebApp.csproj|f:\\qlbh-master\\qlbh-master\\mywebapp\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE160F80-C804-4DCB-3E6B-5D99DC7C094B}|MyWebApp.csproj|solutionrelative:models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE160F80-C804-4DCB-3E6B-5D99DC7C094B}|MyWebApp.csproj|f:\\c-sharp\\mywebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE160F80-C804-4DCB-3E6B-5D99DC7C094B}|MyWebApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE160F80-C804-4DCB-3E6B-5D99DC7C094B}|MyWebApp.csproj|f:\\qlbh-master\\qlbh-master\\mywebapp\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE160F80-C804-4DCB-3E6B-5D99DC7C094B}|MyWebApp.csproj|solutionrelative:controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE160F80-C804-4DCB-3E6B-5D99DC7C094B}|MyWebApp.csproj|f:\\c-sharp\\mywebapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE160F80-C804-4DCB-3E6B-5D99DC7C094B}|MyWebApp.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE160F80-C804-4DCB-3E6B-5D99DC7C094B}|MyWebApp.csproj|f:\\qlbh-master\\qlbh-master\\mywebapp\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CE160F80-C804-4DCB-3E6B-5D99DC7C094B}|MyWebApp.csproj|f:\\c-sharp\\mywebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE160F80-C804-4DCB-3E6B-5D99DC7C094B}|MyWebApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE160F80-C804-4DCB-3E6B-5D99DC7C094B}|MyWebApp.csproj|f:\\c-sharp\\mywebapp\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CE160F80-C804-4DCB-3E6B-5D99DC7C094B}|MyWebApp.csproj|solutionrelative:views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE160F80-C804-4DCB-3E6B-5D99DC7C094B}|MyWebApp.csproj|f:\\qlbh-master\\qlbh-master\\mywebapp\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE160F80-C804-4DCB-3E6B-5D99DC7C094B}|MyWebApp.csproj|solutionrelative:models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE160F80-C804-4DCB-3E6B-5D99DC7C094B}|MyWebApp.csproj|f:\\c-sharp\\mywebapp\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE160F80-C804-4DCB-3E6B-5D99DC7C094B}|MyWebApp.csproj|solutionrelative:controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE160F80-C804-4DCB-3E6B-5D99DC7C094B}|MyWebApp.csproj|f:\\qlbh-master\\qlbh-master\\mywebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CE160F80-C804-4DCB-3E6B-5D99DC7C094B}|MyWebApp.csproj|f:\\c-sharp\\mywebapp\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE160F80-C804-4DCB-3E6B-5D99DC7C094B}|MyWebApp.csproj|solutionrelative:models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE160F80-C804-4DCB-3E6B-5D99DC7C094B}|MyWebApp.csproj|f:\\c-sharp\\mywebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CE160F80-C804-4DCB-3E6B-5D99DC7C094B}|MyWebApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE160F80-C804-4DCB-3E6B-5D99DC7C094B}|MyWebApp.csproj|f:\\c-sharp\\mywebapp\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE160F80-C804-4DCB-3E6B-5D99DC7C094B}|MyWebApp.csproj|solutionrelative:models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,67 +42,109 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "OrderDetails.cs",
-              "DocumentMoniker": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\Models\\OrderDetails.cs",
-              "RelativeDocumentMoniker": "Models\\OrderDetails.cs",
-              "ToolTip": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\Models\\OrderDetails.cs",
-              "RelativeToolTip": "Models\\OrderDetails.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T14:46:05.615Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\Views\\Cart\\Index.cshtml",
+              "DocumentMoniker": "F:\\C-sharp\\MyWebApp\\Views\\Cart\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
-              "ToolTip": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "F:\\C-sharp\\MyWebApp\\Views\\Cart\\Index.cshtml",
               "RelativeToolTip": "Views\\Cart\\Index.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAvwEMAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-16T14:41:58.552Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T14:41:17.561Z"
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\C-sharp\\MyWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "F:\\C-sharp\\MyWebApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T15:27:46.23Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\C-sharp\\MyWebApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "F:\\C-sharp\\MyWebApp\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T15:27:44.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C-sharp\\MyWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\C-sharp\\MyWebApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:27:39.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "F:\\C-sharp\\MyWebApp\\Models\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDetails.cs",
+              "ToolTip": "F:\\C-sharp\\MyWebApp\\Models\\OrderDetails.cs",
+              "RelativeToolTip": "Models\\OrderDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:46:05.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\C-sharp\\MyWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\C-sharp\\MyWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T14:41:17.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "OrderModel.cs",
-              "DocumentMoniker": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\Models\\OrderModel.cs",
+              "DocumentMoniker": "F:\\C-sharp\\MyWebApp\\Models\\OrderModel.cs",
               "RelativeDocumentMoniker": "Models\\OrderModel.cs",
-              "ToolTip": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\Models\\OrderModel.cs",
+              "ToolTip": "F:\\C-sharp\\MyWebApp\\Models\\OrderModel.cs",
               "RelativeToolTip": "Models\\OrderModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T14:33:26.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CheckoutController.cs",
-              "DocumentMoniker": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\Controllers\\CheckoutController.cs",
+              "DocumentMoniker": "F:\\C-sharp\\MyWebApp\\Controllers\\CheckoutController.cs",
               "RelativeDocumentMoniker": "Controllers\\CheckoutController.cs",
-              "ToolTip": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\Controllers\\CheckoutController.cs",
+              "ToolTip": "F:\\C-sharp\\MyWebApp\\Controllers\\CheckoutController.cs",
               "RelativeToolTip": "Controllers\\CheckoutController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA5wCMAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCMAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T10:37:58.962Z",
               "EditorCaption": ""

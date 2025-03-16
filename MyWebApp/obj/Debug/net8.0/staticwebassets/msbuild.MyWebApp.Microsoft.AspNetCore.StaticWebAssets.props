@@ -1296,6 +1296,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\7554ee36-3a46-4aa9-b83f-feb92f75d34f_LV Biker PM 5000.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\77eae951-4e20-4777-881e-6b3245d47bee_02bb66de306036a416424fac6fc52dbb.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>MyWebApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MyWebApp</BasePath>
+      <RelativePath>media/products/77eae951-4e20-4777-881e-6b3245d47bee_02bb66de306036a416424fac6fc52dbb.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\77eae951-4e20-4777-881e-6b3245d47bee_02bb66de306036a416424fac6fc52dbb.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\media\products\7e35f663-0b31-415d-802a-78f734c5b967_LV Biker PM 5000.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>MyWebApp</SourceId>

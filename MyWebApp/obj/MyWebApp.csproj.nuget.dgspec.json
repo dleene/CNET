@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\QLBH-master\\QLBH-master\\MyWebApp\\MyWebApp.csproj": {}
+    "F:\\C-sharp\\MyWebApp\\MyWebApp.csproj": {}
   },
   "projects": {
-    "F:\\QLBH-master\\QLBH-master\\MyWebApp\\MyWebApp.csproj": {
+    "F:\\C-sharp\\MyWebApp\\MyWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\MyWebApp.csproj",
+        "projectUniqueName": "F:\\C-sharp\\MyWebApp\\MyWebApp.csproj",
         "projectName": "MyWebApp",
-        "projectPath": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\MyWebApp.csproj",
+        "projectPath": "F:\\C-sharp\\MyWebApp\\MyWebApp.csproj",
         "packagesPath": "C:\\Users\\DLEE\\.nuget\\packages\\",
-        "outputPath": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\obj\\",
+        "outputPath": "F:\\C-sharp\\MyWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

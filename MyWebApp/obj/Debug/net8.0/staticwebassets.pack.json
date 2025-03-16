@@ -1,351 +1,355 @@
 {
   "Files": [
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyWebApp.bundle.scp.css",
+      "Id": "F:\\C-sharp\\MyWebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyWebApp.bundle.scp.css",
       "PackagePath": "staticwebassets\\MyWebApp.bundle.scp.css"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\backend\\js\\site.js",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\backend\\js\\site.js",
       "PackagePath": "staticwebassets\\backend\\js\\site.js"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\css\\animate.css",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\css\\animate.css",
       "PackagePath": "staticwebassets\\css\\animate.css"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\css\\font-awesome.min.css",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\css\\main.css",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\css\\main.css",
       "PackagePath": "staticwebassets\\css\\main.css"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\css\\prettyPhoto.css",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\css\\prettyPhoto.css",
       "PackagePath": "staticwebassets\\css\\prettyPhoto.css"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\css\\price-range.css",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\css\\price-range.css",
       "PackagePath": "staticwebassets\\css\\price-range.css"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\css\\responsive.css",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\css\\responsive.css",
       "PackagePath": "staticwebassets\\css\\responsive.css"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\favicon.ico",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\images\\1.jpg",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\images\\1.jpg",
       "PackagePath": "staticwebassets\\images\\1.jpg"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\images\\2.jpg",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\images\\2.jpg",
       "PackagePath": "staticwebassets\\images\\2.jpg"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\images\\gallery1.jpg",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\images\\gallery1.jpg",
       "PackagePath": "staticwebassets\\images\\gallery1.jpg"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\js\\bootstrap.min.js",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\js\\contact.js",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\js\\contact.js",
       "PackagePath": "staticwebassets\\js\\contact.js"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\js\\gmaps.js",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\js\\gmaps.js",
       "PackagePath": "staticwebassets\\js\\gmaps.js"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\js\\html5shiv.js",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\js\\html5shiv.js",
       "PackagePath": "staticwebassets\\js\\html5shiv.js"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\js\\jquery.js",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\js\\jquery.js",
       "PackagePath": "staticwebassets\\js\\jquery.js"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\js\\jquery.prettyPhoto.js",
       "PackagePath": "staticwebassets\\js\\jquery.prettyPhoto.js"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\js\\jquery.scrollUp.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\js\\main.js",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\js\\price-range.js",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\js\\price-range.js",
       "PackagePath": "staticwebassets\\js\\price-range.js"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\media\\products\\09e54adc-0ed0-4356-b5c3-c78d867401bb_LV Biker PM 5000.jpg",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\media\\products\\09e54adc-0ed0-4356-b5c3-c78d867401bb_LV Biker PM 5000.jpg",
       "PackagePath": "staticwebassets\\media\\products\\09e54adc-0ed0-4356-b5c3-c78d867401bb_LV Biker PM 5000.jpg"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\media\\products\\6a6d4979-07a5-4506-a926-ffbc669cdc55_Gucci 73 mini bucket bag.jpg",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\media\\products\\6a6d4979-07a5-4506-a926-ffbc669cdc55_Gucci 73 mini bucket bag.jpg",
       "PackagePath": "staticwebassets\\media\\products\\6a6d4979-07a5-4506-a926-ffbc669cdc55_Gucci 73 mini bucket bag.jpg"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\media\\products\\7554ee36-3a46-4aa9-b83f-feb92f75d34f_LV Biker PM 5000.jpg",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\media\\products\\7554ee36-3a46-4aa9-b83f-feb92f75d34f_LV Biker PM 5000.jpg",
       "PackagePath": "staticwebassets\\media\\products\\7554ee36-3a46-4aa9-b83f-feb92f75d34f_LV Biker PM 5000.jpg"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\media\\products\\7e35f663-0b31-415d-802a-78f734c5b967_LV Biker PM 5000.jpg",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\media\\products\\77eae951-4e20-4777-881e-6b3245d47bee_02bb66de306036a416424fac6fc52dbb.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\77eae951-4e20-4777-881e-6b3245d47bee_02bb66de306036a416424fac6fc52dbb.jpg"
+    },
+    {
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\media\\products\\7e35f663-0b31-415d-802a-78f734c5b967_LV Biker PM 5000.jpg",
       "PackagePath": "staticwebassets\\media\\products\\7e35f663-0b31-415d-802a-78f734c5b967_LV Biker PM 5000.jpg"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\media\\products\\7e991e91-6582-4694-89d6-00b14e052bb2_LV Biker PM 5000.jpg",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\media\\products\\7e991e91-6582-4694-89d6-00b14e052bb2_LV Biker PM 5000.jpg",
       "PackagePath": "staticwebassets\\media\\products\\7e991e91-6582-4694-89d6-00b14e052bb2_LV Biker PM 5000.jpg"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\media\\products\\82252e8b-f113-4c86-8976-02347012a899_livetream-shopee-la-gi.jpg",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\media\\products\\82252e8b-f113-4c86-8976-02347012a899_livetream-shopee-la-gi.jpg",
       "PackagePath": "staticwebassets\\media\\products\\82252e8b-f113-4c86-8976-02347012a899_livetream-shopee-la-gi.jpg"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\media\\products\\a403140c-88dd-4d00-b4f9-725f5ede490d_Gucci 73 mini bucket bag.jpg",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\media\\products\\a403140c-88dd-4d00-b4f9-725f5ede490d_Gucci 73 mini bucket bag.jpg",
       "PackagePath": "staticwebassets\\media\\products\\a403140c-88dd-4d00-b4f9-725f5ede490d_Gucci 73 mini bucket bag.jpg"
     },
     {
-      "Id": "F:\\QLBH-master\\QLBH-master\\MyWebApp\\wwwroot\\media\\products\\f1430369-c412-40bd-9b0d-ed3b3da216e1_GG Marmont super mini bag.jpg",
+      "Id": "F:\\C-sharp\\MyWebApp\\wwwroot\\media\\products\\f1430369-c412-40bd-9b0d-ed3b3da216e1_GG Marmont super mini bag.jpg",
       "PackagePath": "staticwebassets\\media\\products\\f1430369-c412-40bd-9b0d-ed3b3da216e1_GG Marmont super mini bag.jpg"
     },
     {

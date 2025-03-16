@@ -766,3 +766,4 @@ F:\QLBH-master\QLBH-master\MyWebApp\obj\Debug\net8.0\refint\MyWebApp.dll
 F:\QLBH-master\QLBH-master\MyWebApp\obj\Debug\net8.0\MyWebApp.pdb
 F:\QLBH-master\QLBH-master\MyWebApp\obj\Debug\net8.0\MyWebApp.genruntimeconfig.cache
 F:\QLBH-master\QLBH-master\MyWebApp\obj\Debug\net8.0\ref\MyWebApp.dll
+F:\C-sharp\MyWebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
