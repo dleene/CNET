@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Hosting;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -85,7 +86,7 @@ namespace MyWebApp.Areas.Admin.Controllers
             return View(product);
         }
 
-        public async Task<IActionResult> Edit(int Id)
+        public async Task<IActionResult> Edit(long Id)
         {
             ProductModel product = await _dataContext.Products.FindAsync(Id);
 
@@ -156,7 +157,7 @@ namespace MyWebApp.Areas.Admin.Controllers
 
             return View(product);
         }
-        public async Task<IActionResult> Delete(int Id)
+        public async Task<IActionResult> Delete(long Id)
         {
             ProductModel product = await _dataContext.Products.FindAsync(Id);
             if (!string.Equals(product.Image, "nomage.jpg"))

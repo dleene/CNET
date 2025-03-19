@@ -475,7 +475,6 @@ C:\CNET-master\MyWebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.MyWebApp.
 C:\CNET-master\MyWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyWebApp.props
 C:\CNET-master\MyWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyWebApp.props
 C:\CNET-master\MyWebApp\obj\Debug\net8.0\staticwebassets.pack.json
-C:\CNET-master\MyWebApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\CNET-master\MyWebApp\obj\Debug\net8.0\MyWebApp.csproj.Up2Date
 C:\CNET-master\MyWebApp\obj\Debug\net8.0\MyWebApp.dll
 C:\CNET-master\MyWebApp\obj\Debug\net8.0\refint\MyWebApp.dll
@@ -767,3 +766,4 @@ F:\QLBH-master\QLBH-master\MyWebApp\obj\Debug\net8.0\MyWebApp.pdb
 F:\QLBH-master\QLBH-master\MyWebApp\obj\Debug\net8.0\MyWebApp.genruntimeconfig.cache
 F:\QLBH-master\QLBH-master\MyWebApp\obj\Debug\net8.0\ref\MyWebApp.dll
 F:\C-sharp\MyWebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\CNET-master\MyWebApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

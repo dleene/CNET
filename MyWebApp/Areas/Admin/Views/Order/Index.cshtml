@@ -7,11 +7,14 @@
 <table class="table">
     <thead>
         <tr>
-            
+            <th scope="col">Id</th>
+
             <th scope="col">Order Code</th>
             <th scope="col">UserName</th>
             <th scope="col">Order Date</th>
             <th scope="col">Order Status</th>
+            <th scope="col">Action</th>
+
 
             
         </tr>
@@ -20,7 +23,9 @@
         @foreach (var item in Model)
         {
             <tr>
-                <th>#</th>
+                <td>@item.Id</td>
+
+           
                 <th scope="row">@item.OrderCode</th>
                 <td>@item.UserName</td>
                 <td>@item.CreatedDate</td>
@@ -34,11 +39,11 @@
                     }
                     else
                     {
-                        <span class="text text-danger">Đơn hàng thành công</span>
+                        <span class="text text-danger">Đã xử lý</span>
                     }
                 </td>
                 <td>
-                    <a asp-action="ViewOrder" class="btn btn-warning btn-sm" asp-controller="Order" asp-route-Id="@item.OrderCode">View</a>
+                    <a asp-action="ViewOrder" class="btn btn-warning btn-sm" asp-controller="Order" asp-route-ordercode="@item.OrderCode">View Order</a>
                     <a asp-action="Delete" class="btn btn-danger btn-sm confirmDeletion " asp-controller="Order" asp-route-Id="@item.Id">Delete</a>
                 </td>
             </tr>

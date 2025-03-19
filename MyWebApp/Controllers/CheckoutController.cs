@@ -7,18 +7,17 @@ using MyWebApp.Models;
 using MyWebApp.Models.ViewModels;
 using MyWebApp.Repository;
 
-namespace MyWebApp.Controllers
-{
-    [Area("Admin")]
+namespace MyWebApp.Areas.Admin.Controllers
+{ 
     [Authorize]
     public class CheckoutController : Controller
     {
         private readonly DataContext _dataContext;
         public CheckoutController(DataContext context)
-
         {
             _dataContext = context;
         }
+
         public async Task<IActionResult> Checkout()
         {
             var userEmail = User.FindFirstValue(ClaimTypes.Email);
@@ -29,33 +28,35 @@ namespace MyWebApp.Controllers
             else
             {
                 var ordercode = Guid.NewGuid().ToString();
-                var orderItem = new OrderModel();
-                orderItem.OrderCode = ordercode;
-                orderItem.UserName = userEmail;
-                orderItem.Status = 1;
-                orderItem.CreatedDate = DateTime.Now;
+                var orderItem = new OrderModel
+                {
+                    OrderCode = ordercode,
+                    UserName = userEmail,
+                    Status = 1,
+                    CreatedDate = DateTime.Now
+                };
                 _dataContext.Add(orderItem);
-                _dataContext.SaveChanges();
+                await _dataContext.SaveChangesAsync(); // Use async method
+
                 List<CartItemModel> cartItems = HttpContext.Session.GetJson<List<CartItemModel>>("Cart") ?? new List<CartItemModel>();
                 foreach (var cart in cartItems)
                 {
-                    var orderdetails = new OrderDetails();
-                    orderdetails.UserName = userEmail;
-                    orderdetails.OrderCode = ordercode;
-                    orderdetails.ProductId = cart.ProductId;
-                    orderdetails.Price = cart.Price;
-                    orderdetails.Quantity = cart.Quantity;
+                    var orderdetails = new OrderDetails
+                    {
+                        UserName = userEmail,
+                        OrderCode = ordercode,
+                        ProductId = cart.ProductId,
+                        Price = cart.Price,
+                        Quantity = cart.Quantity
+                    };
                     _dataContext.Add(orderdetails);
-                    _dataContext.SaveChanges();
-
+                    await _dataContext.SaveChangesAsync(); // Use async method
                 }
                 HttpContext.Session.Remove("Cart");
                 TempData["success"] = "Checkout thành công, vui lòng chờ duyệt đơn hàng";
                 return RedirectToAction("Index", "Cart");
-
             }
             return View();
-
         }
     }
 }

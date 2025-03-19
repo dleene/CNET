@@ -26,7 +26,7 @@ namespace MyWebApp.Controllers
         {
             return View("~/Views/Checkout/Index.cshtml");
         }
-        public async Task<IActionResult> Add(int Id)
+        public async Task<IActionResult> Add(long Id)
         {
             ProductModel product = await _dataContext.Products.FindAsync(Id);
             List<CartItemModel> cart = HttpContext.Session.GetJson<List<CartItemModel>>("Cart") ?? new List<CartItemModel>();
@@ -47,7 +47,7 @@ namespace MyWebApp.Controllers
 
             return Redirect(Request.Headers["Referer"].ToString());
         }
-        public async Task<IActionResult> Decrease(int Id)
+        public async Task<IActionResult> Decrease(long Id)
         {
             List<CartItemModel> cart = HttpContext.Session.GetJson<List<CartItemModel>>("Cart");
 
@@ -77,7 +77,7 @@ namespace MyWebApp.Controllers
 
         }
 
-        public async Task<IActionResult> Increase(int Id)
+        public async Task<IActionResult> Increase(long Id)
         {
             List<CartItemModel> cart = HttpContext.Session.GetJson<List<CartItemModel>>("Cart");
 
@@ -107,7 +107,7 @@ namespace MyWebApp.Controllers
 
         }
 
-        public async Task<IActionResult> Remove(int Id)
+        public async Task<IActionResult> Remove(long Id)
         {
             List<CartItemModel> cart = HttpContext.Session.GetJson<List<CartItemModel>>("Cart");
             cart.RemoveAll(p => p.ProductId == Id);
@@ -126,7 +126,7 @@ namespace MyWebApp.Controllers
 
         }
 
-        public async Task<IActionResult> Clear(int Id)
+        public async Task<IActionResult> Clear(long Id)
         {
             HttpContext.Session.Remove("Cart");
             TempData["success"] = "Clear all Item of cart Successfully";

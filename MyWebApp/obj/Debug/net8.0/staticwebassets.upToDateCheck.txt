@@ -76,5 +76,16 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\media\products\09e54adc-0ed0-4356-b5c3-c78d867401bb_LV Biker PM 5000.jpg
+wwwroot\media\products\2237b38f-b6b2-4852-9db6-1bdc9548b338_Small 30 Montaigne Bag.jpg
+wwwroot\media\products\411de7f2-15d2-4d68-9eae-7e6594f34275_Small Dior Jolie Top Handle Bag.jpg
+wwwroot\media\products\6a6d4979-07a5-4506-a926-ffbc669cdc55_Gucci 73 mini bucket bag.jpg
+wwwroot\media\products\72c9b873-e89f-4e2a-9caf-590626d4e737_LV Biker PM 5000.jpg
+wwwroot\media\products\7554ee36-3a46-4aa9-b83f-feb92f75d34f_LV Biker PM 5000.jpg
+wwwroot\media\products\77eae951-4e20-4777-881e-6b3245d47bee_02bb66de306036a416424fac6fc52dbb.jpg
+wwwroot\media\products\7e35f663-0b31-415d-802a-78f734c5b967_LV Biker PM 5000.jpg
 wwwroot\media\products\7e991e91-6582-4694-89d6-00b14e052bb2_LV Biker PM 5000.jpg
 wwwroot\media\products\82252e8b-f113-4c86-8976-02347012a899_livetream-shopee-la-gi.jpg
+wwwroot\media\products\a403140c-88dd-4d00-b4f9-725f5ede490d_Gucci 73 mini bucket bag.jpg
+wwwroot\media\products\a8962399-6195-4844-86aa-f6accdd8f584_Gucci 73 mini bucket bag.jpg
+wwwroot\media\products\f1430369-c412-40bd-9b0d-ed3b3da216e1_GG Marmont super mini bag.jpg
